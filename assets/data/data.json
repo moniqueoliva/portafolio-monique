@@ -1,16 +1,16 @@
 {
-    "title": "Dania Monique Oliva | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Dania Monique Oliva | Business Technology & Digital Transformation Portfolio",
+    "description": "Business Technology professional with 7+ years of experience bridging business strategy and technology.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Dania Monique Oliva",
+    "skill": "Business Technology | IT Project Management | Business Analysis | Digital Transformation | Full-Stack Development | Business Intelligence",
+    "location": "Orlando, FL",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "monique_oliva@hotmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/moniqueoliva",
+        "likedin": "https://linkedin.com/in/dmoniquecr"
     },
     "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
     "technologies": [

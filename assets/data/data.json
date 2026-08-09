@@ -1,128 +1,232 @@
 {
-    "title": "Dania Monique Oliva | Business Technology & Digital Transformation Portfolio",
-    "description": "Business Technology professional with 7+ years of experience bridging business strategy and technology.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
-    "name": "Dania Monique Oliva",
-    "skill": "Business Technology | IT Project Management | Business Analysis | Digital Transformation | Full-Stack Development | Business Intelligence",
-    "location": "Orlando, FL",
-    "media": {
-        "email": "monique_oliva@hotmail.com",
-        "cv": "/data/cv.pdf",
-        "github": "https://github.com/moniqueoliva",
-        "likedin": "https://linkedin.com/in/dmoniquecr"
+  "title": "Dania Monique Oliva | Business Technology & Digital Transformation",
+  "description": "Business Technology professional specializing in IT Project Management, Business Analysis, Digital Transformation, Full-Stack Development, and Business Intelligence.",
+  "image": "/avatar.jpg",
+  "avatar": "/avatar.jpg",
+  "name": "Dania Monique Oliva",
+  "skill": "Business Technology | IT Project Management | Business Analysis | Digital Transformation",
+  "location": "Greater Orlando, Florida",
+
+  "media": {
+    "email": "mailto:YOUR_EMAIL",
+    "cv": "/data/cv.pdf",
+    "github": "https://github.com/moniqueoliva",
+    "likedin": "YOUR_LINKEDIN_URL"
+  },
+
+  "about": "Business Technology and Digital Transformation professional with 7+ years of experience bridging business needs and technology across telecommunications and the public sector. My background combines IT Project Management, Business Analysis, Full-Stack Development, Business Process Management, and Business Intelligence. I have led 20+ technology initiatives, coordinated cross-functional teams, designed and developed enterprise applications, and delivered digital solutions supporting 24 departments and 500+ users. My experience spans the full solution lifecycle—from process analysis, requirements gathering, and solution design to development, testing, implementation, training, and continuous improvement. I am passionate about turning complex business challenges into practical, scalable solutions that improve efficiency, strengthen controls, reduce risk, and enable data-driven decision-making.",
+
+  "technologies": [
+    {
+      "icon": "devicon-oracle-original",
+      "name": "Oracle APEX"
     },
-    "about": "Business Technology and Digital Transformation professional with 7+ years of experience bridging business needs and technology across telecommunications and the public sector. My background combines IT Project Management, Business Analysis, Full-Stack Development, Business Process Management, and Business Intelligence. I have led 20+ technology initiatives, coordinated cross-functional teams, designed and developed enterprise applications, and delivered digital solutions supporting 24 departments and 500+ users. My experience spans the full solution lifecycle—from process analysis, requirements gathering, and solution design to development, testing, implementation, training, and continuous improvement. I am passionate about turning complex business challenges into practical, scalable solutions that improve efficiency, strengthen controls, reduce risk, and enable data-driven decision-making.",
-    "technologies": [
+    {
+      "icon": "devicon-oracle-original",
+      "name": "PL/SQL"
+    },
+    {
+      "icon": "devicon-javascript-plain",
+      "name": "JavaScript"
+    },
+    {
+      "icon": "devicon-jquery-plain",
+      "name": "jQuery"
+    },
+    {
+      "icon": "devicon-devicon-plain",
+      "name": "Tableau"
+    },
+    {
+      "icon": "devicon-devicon-plain",
+      "name": "Power BI"
+    }
+  ],
+
+  "experience": [
+    {
+      "icon": "terminal",
+      "title": "Secretariat of Social Development (SEDESOL)",
+      "subtitle": "IT & Digital Transformation Coordinator",
+      "description": "Led 20+ technology initiatives and coordinated cross-functional teams across the full project lifecycle, from business requirements and solution design through development, testing, implementation, training, and continuous improvement. Delivered digital solutions supporting 24 departments and 500+ users while advancing process modernization, risk management, and data-driven decision-making.",
+      "date": "May 2023 - Dec 2025"
+    },
+    {
+      "icon": "terminal",
+      "title": "Secretariat of Social Development (SEDESOL)",
+      "subtitle": "Modernization Specialist",
+      "description": "Led institutional process analysis and documentation, contributing to the design of the enterprise process architecture and 31 Process & Procedure Manuals. Coordinated modernization initiatives, organizational planning, performance indicators, accountability reporting, and international cooperation projects, including work with the European Union.",
+      "date": "Jan 2023 - May 2023"
+    },
+    {
+      "icon": "terminal",
+      "title": "Secretariat of Social Development (SEDESOL)",
+      "subtitle": "Administrative Analyst III",
+      "description": "Provided technical and executive support within the Ministerial Office, preparing institutional reports, coordinating information across departments, supporting strategic initiatives, and conducting administrative and organizational analysis.",
+      "date": "Nov 2022 - Jan 2023"
+    },
+    {
+      "icon": "terminal",
+      "title": "Millicom (Tigo)",
+      "subtitle": "Process & Control Improvement Analyst",
+      "description": "Designed and developed end-to-end enterprise applications for Supply Chain, Procurement, Inventory, Import/Export, and Administration using Oracle APEX and PL/SQL. Automated controls, built executive dashboards and KPI/SLA solutions, managed multiple concurrent developments, and translated operational and audit risks into technology solutions.",
+      "date": "Nov 2020 - Dec 2022"
+    },
+    {
+      "icon": "terminal",
+      "title": "Millicom (Tigo)",
+      "subtitle": "Billing Quality Analyst",
+      "description": "Supported billing quality assurance and a major CRM-CBS migration through data validation, reconciliation, scenario analysis, process automation, SLA monitoring, and dashboards that provided visibility into migration and billing performance.",
+      "date": "Nov 2019 - Nov 2020"
+    }
+  ],
+
+  "projects": [
+    {
+      "icon": "bar-chart-4",
+      "title": "Enterprise Process Architecture",
+      "subtitle": "Institutional Modernization & Business Process Management",
+      "description": "Led the mapping and standardization of institutional processes, contributing to enterprise process maps and 31 Process & Procedure Manuals. The initiative established a structured foundation for governance, process improvement, risk management, and future digital transformation.",
+      "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
-        },
-        {
-            "icon": "devicon-c-plain",
-            "name": "C"
-        },
-        {
-            "icon": "devicon-python-plain",
-            "name": "Python"
+          "icon": "devicon-devicon-plain",
+          "name": "BPM"
         }
-    ],
-    "experience": [
+      ],
+      "image": "/project_1.jpg",
+      "url": "",
+      "github": ""
+    },
+    {
+      "icon": "bar-chart-4",
+      "title": "Virtual Employment Platform",
+      "subtitle": "Digital Government & Social Impact",
+      "description": "Led the design and delivery of a digital employment solution for older adults and people with disabilities, coordinating requirements, process design, development, testing, stakeholder validation, implementation, and user adoption.",
+      "technologies": [
         {
-            "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
-        },
-        {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+          "icon": "devicon-oracle-original",
+          "name": "Oracle APEX"
         }
-    ],
-    "projects": [
+      ],
+      "image": "/project_2.jpg",
+      "url": "",
+      "github": ""
+    },
+    {
+      "icon": "bar-chart-4",
+      "title": "Planning & Performance Management System",
+      "subtitle": "POA & Institutional Performance Indicators",
+      "description": "Led digital solutions that enabled departments to submit annual operational plans, monitor activity and product execution, manage institutional performance indicators, attach supporting evidence, and improve real-time management visibility.",
+      "technologies": [
         {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
-            "technologies": [
-                {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
-                },
-                {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
-                }
-            ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
-        },
-        {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
-            "technologies": [
-                {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
-                }
-            ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+          "icon": "devicon-oracle-original",
+          "name": "Oracle APEX"
         }
-    ],
-    "training": [
+      ],
+      "image": "/project_1.jpg",
+      "url": "",
+      "github": ""
+    },
+    {
+      "icon": "bar-chart-4",
+      "title": "Material Request & Inventory Control",
+      "subtitle": "Supply Chain Digitalization",
+      "description": "Designed and developed a warehouse and inventory traceability solution that tracked materials by identifiers, serial numbers, pallets, requester, destination, and movement history, strengthening transparency and operational controls.",
+      "technologies": [
         {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+          "icon": "devicon-oracle-original",
+          "name": "Oracle APEX"
         },
         {
-            "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+          "icon": "devicon-devicon-plain",
+          "name": "PL/SQL"
         }
-    ],
-    "extras": [
+      ],
+      "image": "/project_2.jpg",
+      "url": "",
+      "github": ""
+    },
+    {
+      "icon": "bar-chart-4",
+      "title": "SLA & Project Tracking System",
+      "subtitle": "Project Portfolio & Performance Management",
+      "description": "Designed and developed an internal platform to centralize requests, monitor projects and enhancements, track presentation and delivery dates, measure SLA performance, and provide management with real-time visibility into workload and project progress.",
+      "technologies": [
         {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+          "icon": "devicon-oracle-original",
+          "name": "Oracle APEX"
         }
-    ]
+      ],
+      "image": "/project_1.jpg",
+      "url": "",
+      "github": ""
+    },
+    {
+      "icon": "bar-chart-4",
+      "title": "Predictive Production Cost Models",
+      "subtitle": "Master's Thesis | Business Analytics",
+      "description": "Developed predictive production cost models using time series analysis to improve forecasting capabilities and support data-driven production planning and decision-making.",
+      "technologies": [
+        {
+          "icon": "devicon-devicon-plain",
+          "name": "Time Series"
+        },
+        {
+          "icon": "devicon-devicon-plain",
+          "name": "Predictive Analytics"
+        }
+      ],
+      "image": "/project_2.jpg",
+      "url": "",
+      "github": ""
+    }
+  ],
+
+  "training": [
+    {
+      "icon": "graduation-cap",
+      "title": "Universidad Tecnológica Centroamericana (UNITEC)",
+      "subtitle": "Master's Degree in Business Analytics",
+      "description": "Graduate studies focused on Business Analytics, predictive modeling, data visualization, database management, business intelligence, and data-driven decision-making.",
+      "date": "",
+      "certificate": ""
+    },
+    {
+      "icon": "graduation-cap",
+      "title": "Universidad Nacional Autónoma de Honduras (UNAH)",
+      "subtitle": "Bachelor's Degree in Administrative Informatics",
+      "description": "Interdisciplinary education combining information technology and business administration, including software development, databases, systems analysis, project management, business intelligence, and organizational process improvement.",
+      "date": "",
+      "certificate": ""
+    },
+    {
+      "icon": "graduation-cap",
+      "title": "FLACSO Honduras",
+      "subtitle": "Diploma in Efficiency and Effectiveness for International Cooperation Management",
+      "description": "Specialized training in international cooperation project design, implementation and evaluation, Logical Framework Approach, public policy alignment, negotiation, stakeholder coordination, and Sustainable Development Goals.",
+      "date": "2025",
+      "certificate": ""
+    }
+  ],
+
+  "extras": [
+    {
+      "image": "/extra_1.jpg",
+      "title": "Enterprise Process Mapping",
+      "description": "Selected work demonstrating institutional process architecture, process mapping, organizational analysis, and standardization. Confidential information is anonymized where applicable.",
+      "url": ""
+    },
+    {
+      "image": "/extra_2.jpg",
+      "title": "Business Intelligence & Executive Dashboards",
+      "description": "Selected dashboard and KPI visualization work designed to improve operational visibility, performance monitoring, risk identification, and management decision-making.",
+      "url": ""
+    },
+    {
+      "image": "/extra_3.jpg",
+      "title": "Digital Transformation Portfolio",
+      "description": "Selected technology and process transformation initiatives spanning requirements analysis, solution design, development, automation, implementation, training, and continuous improvement.",
+      "url": ""
+    }
+  ]
 }
